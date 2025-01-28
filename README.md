@@ -18,9 +18,4 @@
   pip install --upgrade pip
   ```
   
-- Установить в виртуальное окружение необходимые пакеты:
-  ```bash
-  pip install -r requirements.txt
-  ```
-  
 - Создать конфигурацию запуска в PyCharm (файл main.py)
